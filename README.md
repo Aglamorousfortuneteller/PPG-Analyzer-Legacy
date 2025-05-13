@@ -7,7 +7,7 @@ The software includes a GUI developed in MATLAB GUIDE, used to load, filter, and
 
 This work has been **published** and **registered** officially:
 
-- 📄 **Publication**:  
+📄 **Publication**:  
   Karaseva E., *Development of a hardware-software measurement system for the collection, detection, and processing of photoplethysmograms*,  
   *Journal of Optical Technology*, Vol. 87, No. 1, 2020.  
   [DOI: 10.1364/JOT.87.000036](https://doi.org/10.1364/JOT.87.000036)
